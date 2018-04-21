@@ -1,7 +1,8 @@
+q+q
+q
 # What is a Program?
 
 ### Objectives:
-
 * Describe a program.
 * Distinguish between interpreted and compiled programs.
 * How to run a Ruby program in your terminal.
